@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Current-Location-Tracker-Mobilie-AppFBDB</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336625075622",
+    "firebase_url": "https://my-location-tracker-over-fbdb-default-rtdb.firebaseio.com",
+    "project_id": "my-location-tracker-over-fbdb",
+    "storage_bucket": "my-location-tracker-over-fbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336625075622:android:8b500a6db406de9b443b67",
+        "android_client_info": {
+          "package_name": "com.zohausman.current_location_tracker_mobilie_appfbdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336625075622-10mfs4h0o64hblole1df512h1hrml41r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zohausman.current_location_tracker_mobilie_appfbdb",
+            "certificate_hash": "6b87f46f1851c1a85cdc3dc4c5d7dc7ea9072289"
+          }
+        },
+        {
+          "client_id": "336625075622-3uivt2eh7h0hf4v7nrdp6a0fcalnm1tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTUXMOnh1me9uIJpMdXNkgcY0bHuWm8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336625075622-3uivt2eh7h0hf4v7nrdp6a0fcalnm1tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
